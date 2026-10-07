@@ -4,7 +4,7 @@ module.exports.config = {
   usePrefix: false,
   version: "1.0.1",
   hasPermssion: 0,
-  credits: "SHAHADAT SAHU",
+  credits: "Md Sohag",
   description: "Bot information command",
   commandCategory: "For users",
   hide: true,
@@ -69,13 +69,13 @@ module.exports.run = async function ({
 
 ╭⭓ ⪩ 𝗢𝗪𝗡𝗘𝗥 𝗜𝗡𝗙𝗢 ⪨
 │
-├─ 👑 𝗡𝗮𝗺𝗲 : 𝐒𝐇𝐀𝐇𝐀𝐃𝐀𝐓 𝐒𝐀𝐇𝐔
+├─ 👑 𝗡𝗮𝗺𝗲 : MD SOHAG 
 ├─ 📲 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 :
-│ facebook.com/100044713412032
+│ https://www.facebook.com/share/1Eq9zM1yBB/
 ├─ 💌 𝗠𝗲𝘀𝘀𝗲𝗻𝗴𝗲𝗿 :
-│ m.me/100044713412032
+│ 
 ├─ 📞 𝗪𝗵𝗮𝘁𝘀𝗀𝗩𝗵𝗔𝗽𝗽 :
-│ wa.me/+8801882333052
+│ 
 ╰───────⭓
 
 ╭⭓ ⪩ 𝗔𝗖𝗧𝗜𝗩𝗜𝗧𝗜𝗘𝗦 ⪨
