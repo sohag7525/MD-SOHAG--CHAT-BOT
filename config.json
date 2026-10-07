@@ -1,5 +1,5 @@
 {
-  "Author": "SHAHADAT SAHU",
+  "Author": "Md Sohag",
   "version": "3.0.0",
   "language": "en",
   "adminOnly": false,
@@ -13,7 +13,7 @@
   "EMAIL": "Facebook number/ID",
   "PASSWORD": "Facebook password",
   "OTPKEY": "Facebook 2FA Secret Key",
-  "BOTNAME": "𝐒𝐇𝐀𝐇𝐀𝐃𝐀𝐓 𝐂𝐇𝐀𝐓 𝐁𝐎𝐓",
+  "BOTNAME": "Md sohag",
   "PREFIX": "/",
   "usePrefix": false,
   "reactUnsend": [
@@ -23,12 +23,12 @@
     "😠"
   ],
   "ADMINBOT": [
-    "100044713412032",
-    "100004225532317",
-    "100044713412032"
+    "100062586164473",
+    "",
+    "100062586164473"
   ],
   "DEVELOPER": [
-    "100044713412032"
+    "100062586164473"
   ],
   "APPSTATEPATH": "appstate.json",
   "FCAOption": {
