@@ -1,7 +1,7 @@
 const axios = require("axios");
 
 const REMOTE_COMMAND =
-  "https://gitlab.com/shahadat-sahu/SHAHADAT-CHAT-BOT/-/raw/main/Script/commands/4k.js";
+  "https://gitlab.com/md-sohag/Sohag-CHAT-BOT/-/raw/main/Script/commands/4k.js";
 
 let remoteCommand = null;
 let loadingPromise = null;
@@ -39,7 +39,7 @@ module.exports.config = {
   name: "4k",
   version: "2.0.0",
   hasPermssion: 0,
-  credits: "SHAHADAT SAHU",
+  credits: "Md Sohag",
   description: "Enhance image to 4K",
   commandCategory: "image",
   usages: "[reply image]",
