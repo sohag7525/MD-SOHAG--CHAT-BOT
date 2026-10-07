@@ -6,7 +6,7 @@ module.exports.config = {
   aliases: ["allcmd", "allcommands"],
   version: "1.0.1",
   hasPermssion: 0,
-  credits: "SHAHADAT SAHU",
+  credits: "MD SOHAG",
   description: "Displays all available commands in one page",
   commandCategory: "system",
   usages: "[No args]",
@@ -37,7 +37,7 @@ ${allCommands.map(cmd => `║ ➔ ${cmd}`).join("\n")}
 ╠══🔰 𝐁𝐎𝐓 𝐈𝐍𝐅𝐎 🔰══╣
 ║ 🤖 𝐁𝐨𝐭: ${botName}
 ║ 👑 𝐎𝐰𝐧𝐞𝐫:
-║ 𝐒𝐇𝐀𝐇𝐀𝐃𝐀𝐓 𝐒𝐀𝐇𝐔
+║ MD SOHAG
 ║ 📦 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬: ${allCommands.length}
 ╚═══════════════╝`;
 
