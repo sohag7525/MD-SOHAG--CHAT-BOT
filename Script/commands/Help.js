@@ -229,10 +229,10 @@ module.exports.run = function ({
 ${msg}
 ┣━━━━━━━━━━━━━━━━┫
 ┃ ⚙ Prefix: ${prefix}
-┃ 🤖 Bot Name:
+┃ 🤖 Bot Name: Md Sohag 
 ┃ ${botName}
 ┃ 🔰 Owner:
-┃ Md Sohag 
+┃  SOHAG
 ╰━━━━━━━━━━━━━━━━╯`;
 
   sendMessage(
